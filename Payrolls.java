@@ -10,7 +10,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author brittanymilkowski
+ * 
  */
 public class Payrolls extends javax.swing.JFrame {
 double InnerCity;
